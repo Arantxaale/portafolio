@@ -51,7 +51,7 @@ Limpieza, análisis y visualización de una encuesta de usuarios para detectar m
 
 ## 📫 **Contacto**
 
-- 📧 Email: [arantxaandia@gmail.com](mailto: arantxaandia@gmail.com)
+- 📧 Email: arantxaandia@gmail.com
 - 💼 LinkedIn:
 
 ---
