@@ -1,4 +1,4 @@
-# 📊 **Portafolio de Análisis de Datos **
+# 📊 Portafolio de Análisis de Datos
 
 Este es mi portafolio de proyectos de análisis de datos, donde aplico herramientas como **Python**, **Power BI**, **SQL** y **Excel** para resolver problemas reales.
 
