@@ -26,7 +26,7 @@ El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile
 - Muestra la **cantidad de veces que ocurrió cada delito** durante el período seleccionado.  
 - Permite identificar los delitos más frecuentes y los que requieren mayor atención.
 
-  ![Dashboard de delitos](Imagenes/Frencuencia de Delitos.png)
+  ![Dashboard de delitos](Imagenes/Frencuencia_de_Delitos.png)
 
 ### 🥧 Distribución de delitos por tipo – Mes seleccionado
 **Gráfico de torta/donut**  
