@@ -46,6 +46,13 @@ Construir un dashboard interactivo con KPIs y visualizaciones dinámicas para ap
 
 ---
 
+# 🎯 Objetivo del Portafolio  
+
+Este portafolio no solo resume mi proceso de aprendizaje, sino que también busca servir como una referencia para quienes deseen comenzar o avanzar en el área de análisis de datos.  
+Cada proyecto está desarrollado con explicaciones detalladas, ejemplos prácticos y un enfoque aplicado, fomentando tanto la práctica individual como el aprendizaje compartido.  
+
+---
+
 ## 📫 Contacto  
 - 📧 Email: **arantxaandia@gmail.com**  
 - 💼 LinkedIn: [Tu perfil aquí](https://www.linkedin.com/)  
