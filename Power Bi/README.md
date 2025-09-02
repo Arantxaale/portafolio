@@ -15,20 +15,18 @@ El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile
 
 ## 📊 Vistas principales del dashboard
 
-### 📌 Portada y KPIs
-Resumen con indicadores clave:
-- **Total Delitos:** 1.234.567  
-- **Delitos de Mayor Connotación Social:** 345.678  
-- **Violencia Intrafamiliar (VIF):** 123.456  
-- **Incivilidades:** 234.567  
-- **Otros Delitos:** 56.789  
+### 📌 Portada.
+
+![Dashboard de delitos](Imagenes/Reporte.png)
 
 > Estos KPIs permiten ver de un vistazo la magnitud de los distintos tipos de delitos reportados.
 
 ### 🔢 Frecuencia de delitos por tipo
 **Gráfico de barras**  
 - Muestra la **cantidad de veces que ocurrió cada delito** durante el período seleccionado.  
-- Permite identificar los delitos más frecuentes y los que requieren mayor atención.  
+- Permite identificar los delitos más frecuentes y los que requieren mayor atención.
+
+  ![Dashboard de delitos](Imagenes/Frencuencia de Delitos.png)
 
 ### 🥧 Distribución de delitos por tipo – Mes seleccionado
 **Gráfico de torta/donut**  
@@ -44,6 +42,24 @@ Resumen con indicadores clave:
 **Mapa de calor**  
 - Visualización geográfica de la **incidencia de delitos por región**.  
 - Permite identificar “puntos calientes” y regiones con mayor criminalidad.  
+
+### ⚙️ Importancia de los filtros y segmentadores
+**Filtros y segmentadores** permiten al usuario explorar los datos de manera interactiva y enfocarse en información específica:  
+
+- **Por año (`AÑO`)**: analizar tendencias anuales y comparar períodos históricos.  
+- **Por mes (`MES`)**: identificar picos estacionales o cambios mensuales en la criminalidad.  
+- **Por tipo de delito**: enfocar el análisis en delitos específicos, como homicidios, hurtos o violencia intrafamiliar.  
+- **Por región (si se agrega)**: estudiar la distribución geográfica de los delitos y detectar puntos calientes.  
+
+**Beneficios**:  
+- Facilitan la interpretación de grandes volúmenes de datos.  
+- Permiten identificar patrones y comportamientos relevantes en distintos contextos.  
+- Hacen que el dashboard sea dinámico y adaptable a distintos análisis o audiencias.  
+
+> Los segmentadores y filtros son esenciales para que los tomadores de decisiones puedan explorar la información de forma rápida, intuitiva y efectiva.  
+
+---
+
 
 ---
 
