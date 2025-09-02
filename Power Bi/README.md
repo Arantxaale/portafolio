@@ -1,7 +1,7 @@
 # 🖥️ Dashboard de Delitos en Chile – Estadísticas Oficiales 2023
 
-Este proyecto presenta un **dashboard interactivo desarrollado en Power BI**, basado en el archivo `datos_delitos_chile.xlsx`.  
-El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile, identificar tendencias temporales y geográficas, y facilitar la toma de decisiones para políticas de seguridad pública.
+Este proyecto presenta un **dashboard interactivo desarrollado en Power BI**, basado en el archivo `estadisticas-delictuales_Chile.xlsx`.  
+El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile, identificar tendencias temporales, y facilitar la toma de decisiones para políticas de seguridad pública.
 
 ---
 
