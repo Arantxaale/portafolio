@@ -6,7 +6,7 @@ Esta carpeta reúne ejercicios, prácticas y ejemplos desarrollados en **SQL (St
 
 ## 🧰 ¿Qué es SQL?
 
-SQL es el lenguaje estándar que permite comunicarse con sistemas de gestión de bases de datos como MySQL, PostgreSQL o SQL Server. Con SQL se puede:
+SQL es el lenguaje estándar que permite comunicarse con sistemas de gestión de bases de datos como MySQL, se puede:
 
 - Crear y modificar estructuras de datos (tablas, relaciones, índices).  
 - Insertar, actualizar y eliminar registros.  
