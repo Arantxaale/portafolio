@@ -79,7 +79,7 @@ El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile
 ## 🧠 Hallazgos clave
 - Los delitos con la mayor frecuencia, no corresponde a delitos graves, sino a Incivilidades y Delitos de mayor conotación social, los cuales superan los 5 millones.
 - La mayor cantidad de delitos se generan los meses de marzo, enero y mayo respectivamente, superando el 8.5%, teniendo todos como peack el año 2010.
-- Entre 2010 y 2023, la cantidad de delitos se redujo en 3.619.109 delitos, lo que equivale a un 78,8 % menos. 
+- Entre 2010 y 2022, la cantidad de delitos se redujo en 2.680.695 delitos, lo que equivale a un 58,3 % menos.
 - La distribución mensual permite detectar meses con mayor riesgo y planificar estrategias preventivas. 
 
 ---
