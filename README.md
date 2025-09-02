@@ -1,42 +1,44 @@
-# 📊 Portafolio de Análisis de Datos
+# 📊 Portafolio Bootcamp de Análisis de Datos
 
-Este es mi portafolio de proyectos de análisis de datos, donde aplico herramientas como **Python**, **Power BI**, **SQL** y **Excel** para resolver problemas reales.
+Este es mi portafolio de proyectos de análisis de datos, donde aplico herramientas utilizadas a lo largo del Bootcamp realizado, como **Python**, **Power BI**, **SQL** y **Excel** para mostrar información importante para la toma de decisiones.
 
 ---
 
 ## 🧠 **Habilidades**
 
-- 📌 Análisis financiero y presupuestario
+- 📌 Análisis de datos.
 - 📈 Visualización de datos con Power BI
-- 🐍 Python para análisis de datos (Pandas, Matplotlib, Seaborn)
+- 🐍 Python para análisis de datos (Pandas, Matplotlib, Numpy)
 - 💾 Consultas SQL y modelado de datos
 - 📊 Creación de dashboards y KPIs
 
 ---
 
-## 📁 **Proyectos Destacados**
+## 📁 Proyectos de Aprendizaje  
 
-### 🔹 [Análisis de Gastos Institucionales 2023-2024](https://github.com/tuusuario/repositorio1)
-**Resumen:**  
-Comparación del gasto ejecutado en personal entre 2023 y 2024, detectando sobreejecuciones e ineficiencias.  
+Estos proyectos forman parte de mi plan de práctica para aplicar lo aprendido en el bootcamp de análisis de datos:  
 
-**Herramientas:** `Power BI`, `Excel`, `Indicadores`, `Control de presupuesto`
+### 🔹 Proyecto 1: Análisis con Python  
+**Objetivo:**  
+Realizar limpieza, transformación y visualización de un dataset para extraer insights relevantes.  
 
----
-
-### 🔹 [Dashboard de Riesgos Institucionales](https://github.com/tuusuario/repositorio2)
-**Resumen:**  
-Construcción de matriz de riesgos y seguimiento del plan trianual. Incluye visualización interactiva con Power BI.  
-
-**Herramientas:** `Power BI`, `Gestión de riesgos`, `Indicadores`, `Control Interno`
+**Herramientas:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
 
-### 🔹 [Análisis de Datos con Python: Encuesta de Satisfacción](https://github.com/tuusuario/repositorio3)
-**Resumen:**  
-Limpieza, análisis y visualización de una encuesta de usuarios para detectar mejoras en el servicio.  
+### 🔹 Proyecto 2: Consultas y Modelado en SQL  
+**Objetivo:**  
+Diseñar una base de datos relacional y ejecutar consultas SQL para analizar información y responder preguntas clave del negocio.  
 
-**Herramientas:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
+**Herramientas:** SQL, MySQL / PostgreSQL  
+
+---
+
+### 🔹 Proyecto 3: Dashboard Interactivo en Power BI  
+**Objetivo:**  
+Construir un dashboard interactivo con KPIs y visualizaciones dinámicas para apoyar la toma de decisiones.  
+
+**Herramientas:** Power BI, Indicadores, Modelado de datos  
 
 ---
 
