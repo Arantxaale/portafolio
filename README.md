@@ -55,7 +55,6 @@ Cada proyecto está desarrollado con explicaciones detalladas, ejemplos práctic
 
 ## 📫 Contacto  
 - 📧 Email: **arantxaandia@gmail.com**  
-- 💼 LinkedIn: [Tu perfil aquí](https://www.linkedin.com/)  
 
 ---
 
