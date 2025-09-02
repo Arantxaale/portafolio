@@ -76,11 +76,11 @@ El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile
 
 ---
 
-## 🧠 Hallazgos clave (ejemplo)
-- Algunos delitos comunes no siempre corresponden a delitos graves; los más críticos requieren análisis focalizado.  
-- La violencia intrafamiliar presenta patrones estacionales y diferencias entre género y edad.  
-- Las regiones urbanas concentran la mayoría de delitos reportados, mientras que ciertas zonas rurales presentan incidencias específicas (como abigeato o robos en lugares no habitados).  
-- La distribución mensual permite detectar meses con mayor riesgo y planificar estrategias preventivas.  
+## 🧠 Hallazgos clave
+- Los delitos con la mayor frecuencia, no corresponde a delitos graves, sino a Incivilidades y Delitos de mayor conotación social, los cuales superan los 5 millones.
+- La mayor cantidad de delitos se generan los meses de marzo, enero y mayo respectivamente, superando el 8.5%, teniendo todos como peack el año 2010.
+- Entre 2010 y 2023, la cantidad de delitos se redujo en 3.619.109 delitos, lo que equivale a un 78,8 % menos. 
+- La distribución mensual permite detectar meses con mayor riesgo y planificar estrategias preventivas. 
 
 ---
 
