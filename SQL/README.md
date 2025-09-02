@@ -4,17 +4,6 @@ Esta carpeta reúne ejercicios, prácticas y ejemplos desarrollados en **SQL (St
 
 ---
 
-## 🧰 ¿Qué es SQL?
-
-SQL es el lenguaje estándar que permite comunicarse con sistemas de gestión de bases de datos como MySQL, se puede:
-
-- Crear y modificar estructuras de datos (tablas, relaciones, índices).  
-- Insertar, actualizar y eliminar registros.  
-- Consultar información con filtros, ordenamientos y agrupamientos.  
-- Realizar análisis descriptivos y generar reportes para la toma de decisiones.
-
----
-
 ## 🖥️ ¿Qué es MySQL Workbench?
 
 MySQL Workbench es una herramienta visual que facilita el diseño, administración y ejecución de consultas sobre bases de datos MySQL. Permite:
