@@ -9,9 +9,9 @@ Recomiendo leer primero el documento del proyecto 2 para mayor comprensión de l
 ---
 
 ## 🎯 Objetivos del proyecto
-- Visualizar métricas clave: **reservas totales, % de cancelaciones, noches promedio e ingreso estimado** (ADR × noches).  
-- Analizar el comportamiento por **tipo de hotel** (City vs Resort), **mes y año**, **mercado/segmento** y **nacionalidad**.  
-- Detectar **tendencias temporales** (picos y bajas estacionales) y variaciones de **ADR**.  
+- Visualizar métricas claves.
+- Analizar el comportamiento. 
+- Detectar **tendencias** y **variaciones**.  
 - Entregar una vista ejecutiva que apoye **decisiones operativas y comerciales** (capacidad, pricing, marketing).
 
 ---
@@ -32,12 +32,12 @@ Tarjetas con indicadores clave:
 
 ### ⚙️ Importancia de los filtros y segmentadores
 Los **filtros** permiten explorar los datos de forma interactiva y responder preguntas específicas:
-- **Año / Mes de check-in**: estacionalidad, picos de demanda y cambios de precio.
 - **Tipo de hotel** (City vs Resort): diferencias operativas y comerciales.
 - **Estado de reserva** (efectiva/cancelada): impacto en ocupación e ingresos esperados.
-- **Segmento / Canal** (si aplica): comportamiento por mercado.
 
 **Beneficios**: facilitan interpretar grandes volúmenes, encontrar patrones en distintos contextos y adaptar el dashboard a distintas audiencias y decisiones.
+
+
 
 ### 🔢 Reservas por tipo (categorías comparables)
 **Gráfico de barras**  
