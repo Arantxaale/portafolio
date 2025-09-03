@@ -50,8 +50,7 @@ Muestra el **estado y cantidad de reservas** por hotel.
 Muestra la **tendencia del estado de las reservas** según la **cantidad de dias de anticipación** con la cual se realizo esta. 
 Ayuda a detectar un comportamiento.
 
-
-
+![Dashboard de Cancelaciones Hoteleras](Imagenes/leadtime.png)
 
 
 ### 🥧 Distribución mensual de reservas
