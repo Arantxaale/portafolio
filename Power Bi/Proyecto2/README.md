@@ -3,7 +3,7 @@
 Este proyecto presenta un **dashboard interactivo desarrollado en Power BI**, basado en el archivo `hotel_bookings.csv`.  
 El objetivo es analizar el comportamiento de las **reservas hoteleras**, identificando patrones de estacionalidad, cancelaciones, duración de estadías y variaciones de tarifa (ADR), para **facilitar la toma de decisiones** en gestión y estrategia comercial.
 
-Recomiendo leer primero el documento del proyecto 2 [README de Data Power Bi](Data%20Power%20Bi/README.md)
+Recomiendo leer primero el documento del proyecto 2 para mayor comprensión de la base de datos que se utilizará : [README de Data Power Bi](Data%20Power%20Bi/README.md)
 
 
 ---
