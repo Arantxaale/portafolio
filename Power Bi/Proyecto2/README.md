@@ -22,6 +22,8 @@ Tarjetas con indicadores clave:
 - **Promedio de noches por reserva**
 - **Ingreso estimado total** (ADR × noches)
 - **Nacionalidad más frecuente**
+- 
+![Dashboard de Cancelaciones Hoteleras](Imagenes/KPI_Importantes.png)
 
 > Estos KPIs permiten dimensionar el volumen, el riesgo (cancelaciones), la duración típica de estadías y el potencial de ingresos.
 
