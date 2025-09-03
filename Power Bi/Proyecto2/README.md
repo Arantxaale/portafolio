@@ -45,6 +45,15 @@ Muestra el **estado y cantidad de reservas** por hotel.
 
 ![Dashboard de Cancelaciones Hoteleras](Imagenes/ComparacionHoteles.png)
 
+### 📈 Estado de la Reserva según Dias de anticipación.
+**Gráfico de líneas**  
+Muestra la **tendencia del estado de las reservas** según la **cantidad de dias de anticipación** con la cual se realizo esta. 
+Ayuda a detectar un comportamiento.
+
+
+
+
+
 ### 🥧 Distribución mensual de reservas
 **Gráfico de torta/donut**  
 Cada porción representa la **proporción de reservas del mes** respecto del total.  
