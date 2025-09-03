@@ -37,7 +37,7 @@ Los **filtros** permiten explorar los datos de forma interactiva y responder pre
 
 **Beneficios**: facilitan interpretar grandes volúmenes, encontrar patrones en distintos contextos y adaptar el dashboard a distintas audiencias y decisiones.
 
-
+![Dashboard de Cancelaciones Hoteleras](Imagenes/Filtros.png)
 
 ### 🔢 Reservas por tipo (categorías comparables)
 **Gráfico de barras**  
