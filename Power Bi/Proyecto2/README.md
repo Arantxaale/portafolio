@@ -39,10 +39,11 @@ Los **filtros** permiten explorar los datos de forma interactiva y responder pre
 
 ![Dashboard de Cancelaciones Hoteleras](Imagenes/Filtros.png)
 
-### 🔢 Reservas por tipo (categorías comparables)
+### 🔢 Reservas por hotel (categorías comparables)
 **Gráfico de barras**  
-Muestra la **cantidad de reservas** por categoría relevante (p. ej., *hotel, mercado, canal o país*).  
-Sirve para detectar concentraciones y oportunidades de diversificación.
+Muestra el **estado y cantidad de reservas** por hotel.  
+
+![Dashboard de Cancelaciones Hoteleras](Imagenes/ComparacionHoteles.png)
 
 ### 🥧 Distribución mensual de reservas
 **Gráfico de torta/donut**  
