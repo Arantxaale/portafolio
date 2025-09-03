@@ -56,7 +56,7 @@ El objetivo es analizar el comportamiento de distintos tipos de delitos en Chile
 - Muestra la **cantidad total de delitos en cada año de la base de datos**.  
 - Permite detectar tendencias, picos estacionales y descensos de criminalidad a lo largo del tiempo.
 
-![Dashboard de delitos](Imagenes/Evolucion_del_Delito.png)
+![Dashboard de delitos](Imagenes/Evolución_del_Delito.png)
 
 ---
 
