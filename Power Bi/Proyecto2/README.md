@@ -52,21 +52,10 @@ Ayuda a detectar un comportamiento.
 
 ![Dashboard de Cancelaciones Hoteleras](Imagenes/leadtime.png)
 
-
-### 🥧 Distribución mensual de reservas
-**Gráfico de torta/donut**  
-Cada porción representa la **proporción de reservas del mes** respecto del total.  
-Con filtros de año/hotel puedes **comparar meses entre años** y descubrir estacionalidad marcada.
-
-### 📈 Evolución temporal
-**Gráfico de líneas**  
-Muestra la **tendencia de reservas por mes/año** (y, opcionalmente, **ADR** en una segunda línea o página).  
-Ayuda a detectar temporadas altas/bajas, recuperaciones o caídas.
-
 ---
 
 ## 📂 Archivos del repositorio
-- `/pbix/dashboard_hotel_bookings.pbix` – Archivo principal de Power BI.  
+Archivo principal de Power BI.  
 - `/data/hotel_bookings.csv` – Dataset utilizado.  
 - `/images/` – Capturas del dashboard.  
 - `/docs/medidas_dax.md` – Medidas DAX utilizadas.  
@@ -77,13 +66,13 @@ Ayuda a detectar temporadas altas/bajas, recuperaciones o caídas.
 ## 🚀 Cómo usarlo
 1. Descarga el archivo `.pbix` desde `/pbix/`.  
 2. Ábrelo en **Power BI Desktop**.  
-3. Explora las páginas y **filtros interactivos** (Año, Mes, Tipo de hotel, Estado de reserva, Segmento).
+3. Explora las páginas y **filtros interactivos** (Año, Mes, Tipo de hotel, Estado de reserva).
 
 ---
 
 ## 🧠 Hallazgos clave (ejemplos a validar con tu data)
-- La **estacionalidad** concentra reservas en meses específicos; el **ADR** tiende a subir en temporada alta.  
-- **City Hotel** vs **Resort Hotel** muestran patrones distintos de **cancelación** y **duración de estadía**.  
+- La **cancelacion** tiende a aumentar mientras mas dias de anticipación tenga la reserva.  
+- **City Hotel** vs **Resort Hotel** muestran patrones distintos de **cancelación**, donde la segunda tiende a tener un menor índice.
 - Ciertos **mercados/nacionalidades** presentan mayor propensión a cancelación o estadías más largas.
 
 ---
@@ -92,4 +81,3 @@ Ayuda a detectar temporadas altas/bajas, recuperaciones o caídas.
 - **Power BI Desktop**  
 - **Power Query**  
 - **DAX**  
-- **Excel** (apoyo)
